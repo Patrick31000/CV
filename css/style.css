@@ -1,0 +1,131 @@
+    #Bandeau {
+        background-image: url("../Images/Bandeau2.jpg");
+        padding-top: 100px;
+        text-align: center;
+        background-attachment: relative;
+        background-position: center center;
+        min-height: 590px;
+        width: 100%;
+        -webkit-background-size: 100%;
+        -moz-background-size: 100%;
+        -o-background-size: 100%;
+        background-size: 100%;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    
+    .container a {
+        color: white;
+    }
+    
+    #Bandeau h1 {
+        font-size: 8em;
+        color: black;
+    }
+    
+    #Bandeau p {
+        font-size: 3em;
+        color: black;
+    }
+    
+    a {
+        text-transform: none;
+        color: black;
+    }
+    
+    #Menu_deroulant {
+        display: inline-block;
+    }
+    
+    .Experience {
+        margin-right: 200px;
+        margin-left: 200px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    
+    .Experience h2 {
+        color: #1F3A93;
+    }
+    
+    .Ville {
+        float: right;
+        margin-top: -60px;
+        font-weight: bold;
+    }
+    
+    h5 {
+        text-decoration: underline;
+    }
+    
+    #diplome {
+        margin-right: 200px;
+        margin-left: 200px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        width: 950px;
+        height: auto;
+    }
+    
+    #diplome h2 {
+        color: #1F3A93;
+    }
+    
+    .Ville2 {
+        float: right;
+        margin-top: -60px;
+        font-weight: bold;
+    }
+    
+    #competences {
+        margin-right: 200px;
+        margin-left: 200px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    
+    #competences h2 {
+        color: #1F3A93;
+    }
+    
+    #hobby {
+        margin-right: 200px;
+        margin-left: 200px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    
+    #hobby p {
+        margin-left: 80px;
+        margin-top: -25px;
+    }
+    
+    #contacts {
+        margin-right: 200px;
+        margin-left: 200px;
+        margin-top: 50px;
+        margin-bottom: 100px;
+        height: 400px;
+        ;
+    }
+    
+    #contacts h2 {
+        color: #1F3A93;
+    }
+    
+    #reseaux {
+        margin-left: 800px;
+        margin-top: -330px;
+    }
+    
+    .viadeo {
+        margin-top: 30px;
+    }
+    
+    footer {
+        background-color: #2f2f2f;
+        color: white;
+        font-size: 15px;
+    }
